@@ -1,0 +1,22 @@
+{
+  "name": "asapi",
+  "version": "1.0.0",
+  "description": "No description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fidoafif/asapi.git"
+  },
+  "author": "fidoafif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fidoafif/asapi/issues"
+  },
+  "homepage": "https://github.com/fidoafif/asapi#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
